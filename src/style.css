@@ -1,0 +1,162 @@
+.container {
+  padding-top: 40px;
+  height: 500px;
+  width: 1200px;
+}
+
+.card-body {
+  height: 510px;
+}
+
+.form {
+  position: fixed;
+  top: 90px;
+  left: 175px;
+}
+
+.cities {
+  color: #026fc5;
+  width: 850px;
+  position: fixed;
+  top: 100px;
+  left: 550px;
+}
+
+h1 {
+  color: #5b6275;
+  font-family: "Roboto", sans-serif;
+  font-size: 50px;
+  position: fixed;
+  top: 200px;
+  left: 175px;
+}
+
+h2 {
+  color: #939aa9;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 50px;
+  position: fixed;
+  top: 200px;
+  left: 550px;
+}
+
+h3 {
+  color: #939aa9;
+  font-family: "Roboto", sans-serif;
+  font-size: 30px;
+  position: fixed;
+  top: 270px;
+  left: 175px;
+  width: 300px;
+  line-height: 1;
+}
+
+h4 {
+  color: #939aa9;
+  font-family: "Roboto", sans-serif;
+  font-size: 30px;
+  position: fixed;
+  top: 300px;
+  left: 175px;
+  width: 300px;
+  line-height: 40px;
+}
+
+.units {
+  color: #5b6275;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 22px;
+  position: fixed;
+  top: 260px;
+  left: 650px;
+  width: 200px;
+}
+
+.currentTemp {
+  color: #5b6275;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 80px;
+  position: fixed;
+  top: 235px;
+  left: 550px;
+}
+
+.weather-emoji {
+  font-size: 45px;
+  position: fixed;
+  bottom: 480px;
+  left: 650px;
+  width: 10px;
+}
+
+.weather-conditions {
+  color: #939aa9;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  position: fixed;
+  top: 215px;
+  left: 850px;
+  width: 200px;
+}
+
+.precipitation {
+  position: fixed;
+  top: 210px;
+  right: 390px;
+}
+
+.humidity {
+  position: fixed;
+  top: 255px;
+  right: 415px;
+}
+
+.wind {
+  position: fixed;
+  top: 300px;
+  right: 420px;
+}
+
+.future-predictions {
+  color: #5b6275;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  text-align: center;
+  position: relative;
+  top: -125px;
+  left: 20px;
+}
+
+.mon {
+  position: fixed;
+  bottom: 250px;
+  left: 175px;
+}
+
+.tue {
+  position: fixed;
+  bottom: 250px;
+  left: 410px;
+}
+
+.wed {
+  position: fixed;
+  bottom: 250px;
+  left: 645px;
+}
+
+.thurs {
+  position: fixed;
+  bottom: 250px;
+  left: 885px;
+}
+
+.fri {
+  position: fixed;
+  bottom: 250px;
+  left: 1120px;
+}
+
+.card {
+  padding: 30px 60px;
+}
